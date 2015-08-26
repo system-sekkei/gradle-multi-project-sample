@@ -1,0 +1,4 @@
+rootProject.name='gradle-multi-project-sample'
+include 'ui'
+include 'core'
+include 'database'

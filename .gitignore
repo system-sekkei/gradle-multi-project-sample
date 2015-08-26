@@ -1,0 +1,20 @@
+dea
+.idea
+*.iml
+
+# For Gradle
+**/build
+.gradle
+
+# For astah
+*.lock
+
+# For local
+temp
+
+# For mac
+.DS_Store
+
+# backup files
+*.un~
+
