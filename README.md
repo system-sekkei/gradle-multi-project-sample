@@ -1,4 +1,5 @@
-# ddd-base
+# gradle-multi-project-sample
+マルチプロジェクト構成サンプル
 gradle based Spring Boot &amp; MVC &amp; Thymeleaf &amp; Security &amp; MyBatis template project
 
 ## 起動方法
